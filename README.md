@@ -1,19 +1,34 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🚶 Passenger Counter App
+📌 Description
+The Passenger Counter App is a simple JavaScript project that allows users to count and save the number of people entering a location. It provides an interactive way to increment a counter and store previous entries.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This project was built to practice basic JavaScript concepts such as:
+DOM manipulation
+Event handling
+Functions
+Variables
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Updating HTML content dynamically
+⚙️ How It Works: 
+Clicking the INCREMENT button increases the passenger count.
+Clicking the SAVE button stores the current count and resets the counter to zero.
+Previous saved entries are displayed below the counter.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+🛠️ Technologies Used:
+HTML
+CSS
+JavaScript
 
-Happy Coding!
+🎯 Features:
+Real-time counter updates
+Save previous entries
+Simple and clean user interface
+Beginner-friendly project
+
+📚 What I Learned:
+Through this project, I improved my understanding of:
+document.getElementById()
+innerText manipulation
+JavaScript functions
+String concatenation
+Basic event-driven programming
