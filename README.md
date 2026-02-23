@@ -1,4 +1,5 @@
 🚶 Passenger Counter App
+
 📌 Description
 The Passenger Counter App is a simple JavaScript project that allows users to count and save the number of people entering a location. It provides an interactive way to increment a counter and store previous entries.
 
