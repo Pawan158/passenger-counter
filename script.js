@@ -16,6 +16,3 @@ function save() {
     count = 0
     countEl.textContent = count
 }
-
-incrementBtn.addEventListener("click", increment)
-saveBtn.addEventListener("click", save)
